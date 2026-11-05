@@ -21,7 +21,7 @@ Built with **React 19** · **Vite** (JSX — no TypeScript) · **Three.js** via
 `@react-three/fiber` + `@react-three/drei` · **Motion** · **Jotai** ·
 plain CSS, and deployed on **Cloudflare Pages**. Scripts: `pnpm dev` /
 `build` / `preview` / `lint`. The architecture and the R3F / CSS /
-mobile-performance conventions live in **[CLAUDE.md](CLAUDE.md)**.
+mobile-performance conventions live in **[AGENTS.md](AGENTS.md)**.
 
 ## Connect
 
